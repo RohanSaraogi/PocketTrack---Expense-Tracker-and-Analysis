@@ -12,10 +12,6 @@ Great choice! Let's update the README file accordingly:
 - **Data Visualization:** Dynamic chart visualizations for insightful expense analysis.
 - **Responsive Design:** Accessible on various devices for convenient on-the-go tracking.
 
-## Screenshots
-
-![PocketTrack Screenshot](screenshots/pockettrack-screenshot.png)
-
 ## Getting Started
 
 1. Clone the repository:
